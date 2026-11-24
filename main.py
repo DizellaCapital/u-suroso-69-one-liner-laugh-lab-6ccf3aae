@@ -8,6 +8,8 @@ import os
 import sys
 
 LINE = "The sock started it. I finished it. The dustbin is my witness."
+# Three beats: accusation, confession, punchline — the dustbin (the vacuum's
+# own body part) reframed as the star witness. Deadpan, 62 characters.
 
 
 def main():
